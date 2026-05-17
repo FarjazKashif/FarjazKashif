@@ -12,27 +12,31 @@
 
 ### Languages and Tools:
 <p align="left">
-<a href="https://github.com/FarjazKashif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40"/></a>
-<a href="https://linkedin.com/in/farjazkashifofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
-<a href="mailto:farjazkashif01@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="40"/></a>
-</p>
-<p align="left">
 <a href="https://www.python.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40" width="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40" width="40"/></a>
 <a href="https://www.typescriptlang.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="40" width="40"/></a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="40" width="40"/></a>
+<a href="https://www.java.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="40" width="40"/></a>
+<a href="https://www.rust-lang.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" height="40" width="40"/></a>
 <a href="https://reactjs.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="40" width="40"/></a>
 <a href="https://reactnative.dev" target="blank"><img align="center" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" height="40" width="40"/></a>
 <a href="https://nextjs.org" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" height="40" width="40"/></a>
+<a href="https://vuejs.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" height="40" width="40"/></a>
 <a href="https://nodejs.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="40" width="40"/></a>
 <a href="https://expressjs.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="40" width="40"/></a>
 <a href="https://www.djangoproject.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" height="40" width="40"/></a>
-<a href="https://flask.palletsprojects.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" height="40" width="40"/></a>
+<a href="https://nginx.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" height="40" width="40"/></a>
 <a href="https://www.postgresql.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="40" width="40"/></a>
 <a href="https://www.mongodb.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="40" width="40"/></a>
 <a href="https://www.mysql.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40" width="40"/></a>
+<a href="https://pandas.pydata.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" height="40" width="40"/></a>
+<a href="https://www.tensorflow.org" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="40" width="40"/></a>
+<a href="https://opencv.org" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" height="40" width="40"/></a>
 <a href="https://www.docker.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="40" width="40"/></a>
 <a href="https://cloud.google.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" height="40" width="40"/></a>
+<a href="https://www.grafana.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" height="40" width="40"/></a>
 <a href="https://www.selenium.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" height="40" width="40"/></a>
+<a href="https://developer.android.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" height="40" width="40"/></a>
 <a href="https://git-scm.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40" width="40"/></a>
 <a href="https://www.linux.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40" width="40"/></a>
 </p>
